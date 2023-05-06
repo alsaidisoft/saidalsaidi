@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saidalsaidi
-- 👀 I’m interested in ASP.NET Core
-- 🌱 I’m currently learning ASp.NET Fremework 5
+- 👀 I’m working now in ASP.NET Core
+- 🌱 I’m currently learning python 3.10
 - 💞️ I’m looking to collaborate on gitHub
 - 📫 follow me in instagram via: @saeed_alsaidi
 <!---
