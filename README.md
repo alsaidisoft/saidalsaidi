@@ -3,6 +3,10 @@
 ### - 🌱 I’m currently learning python 3.10
 ### - 💞️ I’m looking to collaborate on gitHub
 
-"""
+
+```java
+
 System.out.println("hello 🤗 world");
-"""
+
+
+```
